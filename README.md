@@ -4,6 +4,8 @@
 
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/attractive-beautiful-beauty-1090393.jpg)
 
-### Send Encrypted Messages 
+### Send encrypted messages 
 
 ### Be the first to experience social media 2.0 
+
+### Access 100s of voice memes to share with your friends
