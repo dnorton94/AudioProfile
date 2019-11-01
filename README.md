@@ -4,7 +4,7 @@
 
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/attractive-beautiful-beauty-783243.jpg)
 
-:arrow_right: Sign up for early access :arrow_left:
+:arrow_right: ### Sign up for early access :arrow_left:
 
 ### Send encrypted messages 
 Send encrypted data via sound that only your friends can decode!
