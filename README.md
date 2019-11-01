@@ -1,5 +1,3 @@
-# AudioProfile
-
 ## Tranform your selfies into AI generated music and show off your uniqueness
 
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/attractive-beautiful-beauty-783243.jpg)
