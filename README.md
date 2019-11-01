@@ -11,9 +11,6 @@ Send encrypted data via sound that only your friends can decode!
 AudioProfile is the Facebook of its time and is about to revolutize the internet and communication as we know it!
 
 ### Access 1000s of voice memes to share with your friends
-
-### Sign up now
-
 You think you love memes? Wait till you access our database of over 1000 voice memes of your favorite popular culture moments!
 
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Frame.png)
